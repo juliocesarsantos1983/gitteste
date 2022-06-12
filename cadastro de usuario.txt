@@ -1,2 +1,3 @@
 Funcionalidade de listagem de usuario
 Edição de usuarios ok
+Funcinalidade de apagar usuario
